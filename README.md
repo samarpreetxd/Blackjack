@@ -78,5 +78,5 @@
 This project is distributed under the [MIT License](LICENSE).
 
 ## Credits
-Developed by [Your Name].  
+Developed by [Samarpreet]([url](https://github.com/samarpreetxd/)).  
 Inspired by traditional casino blackjack and the JavaFX community.
